@@ -1,0 +1,7 @@
+.buttonsCon{
+  border-radius: 7px;
+  display: flex;
+  justify-content: center;
+
+  flex-wrap: wrap;
+}
